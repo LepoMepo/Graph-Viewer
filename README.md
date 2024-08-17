@@ -5,3 +5,4 @@ This app was designed on the basis of MVC pattern and with the help of **Python 
 ## Limitations:
 - The maximum number of lines on one graph is *24*;
 - Only files with the extension *.dia* used in SOCRAT can be opened
+![Graph_Viewer](Graph_Viewer.png)
